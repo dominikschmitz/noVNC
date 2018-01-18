@@ -1,5 +1,5 @@
 {
-  "name": "@novnc/novnc",
+  "name": "noVNC",
   "version": "1.0.0-testing.2",
   "description": "An HTML5 VNC client",
   "directories": {

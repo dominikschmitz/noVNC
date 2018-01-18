@@ -7,10 +7,6 @@
 /vendor/sinon.js
 
 # noVNC application files
-/app
-/vendor/browser-es-module-loader
-/vendor/promise.js
-/vnc.html
 /vnc_lite.html
 
 # raw translation files
